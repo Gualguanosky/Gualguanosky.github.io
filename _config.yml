@@ -1,0 +1,12 @@
+title: "Alejandro — Full Stack Developer"
+description: "Remote Full Stack Developer | Python, React, JavaScript"
+url: "https://gualguanosky.github.io"
+theme: jekyll-theme-minimal
+
+author:
+  name: Alejandro
+  email: tuemail@email.com
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
